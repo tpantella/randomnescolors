@@ -1,7 +1,7 @@
-
 <html> 
 <head>
     <title>Random NES Colors</title> 
+    A site made to generate four colors within the 56 colors that the Nintendo Entertainment System can produce, for visual inspiration.
     <style>
         body {
             font-family: Arial, sans-serif;
