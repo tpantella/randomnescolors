@@ -12,7 +12,7 @@
             min-height: 100vh;
             background-image: none;
             background-color: #ffffff;
-            overflow: hidden;
+
         }
         #color-stripes {
             position: fixed;
