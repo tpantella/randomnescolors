@@ -1,5 +1,4 @@
-// Visit https://tpantella.github.io/randomnescolors/ to see this
-// Just a simple site to display random NES colors
+// Visit https://tpantella.github.io/randomnescolors/ to see this. Just a simple site to display random NES colors. This Readme contains the site in its entirety.
 
 <!DOCTYPE html>
 <html>
