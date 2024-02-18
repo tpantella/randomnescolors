@@ -1,4 +1,4 @@
-// Visit https://tpantella.github.io/randomnescolors/ to see this. Just a simple site to display random NES colors. This Readme contains the site in its entirety.
+// Visit https://tpantella.github.io/randomnescolors/ to see this. Just a simple site to display random NES colors. The NES is capable of displaying 56 colors in total, but usually only in four colors (a group) per tile, and four groups per background, and the fourth color dedicated to transparency. This page helps visualize a random set of colors for the sake of inspiration when picking color groups. This Readme contains the site in its entirety.
 
 <!DOCTYPE html>
 <html>
